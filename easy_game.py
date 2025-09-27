@@ -3,6 +3,7 @@
 -1 for water 
 0 for gun
 '''
+#MY name is Bikram pal
 import random
 computer = random.choice([-1,0,1])
 youstr = input("Enter your choice: ")
