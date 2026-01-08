@@ -69,7 +69,10 @@ you win!
 * `random` module
 
 ---
+👤 Author
 
+Bikram Pal
+CSE (AI & ML) Student
 
 
 ---
